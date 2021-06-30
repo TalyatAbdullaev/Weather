@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_or_index">Введите название города</string>
+    <string name="btn_find_weather">Узнать погоду</string>
+    <string name="nature_background">nature_background</string>
+</resources>
